@@ -1,0 +1,1 @@
+<img src={PARAMETERS} width=1550 height=200 align=middle/>
